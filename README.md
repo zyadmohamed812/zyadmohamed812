@@ -45,6 +45,17 @@ My mission is to bridge the gap between advanced AI solutions and underserved co
 ---
 
 ## 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
+
+#### **AI/ML**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" style="margin: 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" style="margin: 5px;" />
+</p>
 
 - **Languages:** Python, C++, Bash
 - **Frameworks:** TensorFlow, PyTorch, Keras, OpenCV, Scikit-learn
